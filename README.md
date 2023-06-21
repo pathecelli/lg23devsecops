@@ -1,4 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/pathecelli/lg23devsecops/badge.svg?branch=main)](https://coveralls.io/github/pathecelli/lg23devsecops?branch=main)
+[![Build Status](https://app.travis-ci.com/pathecelli/lg23devsecops.svg?branch=main)](https://app.travis-ci.com/pathecelli/lg23devsecops)
 
 # 2023-devsecops-example Example Project
 This project is intended for use as a model to play with some more
