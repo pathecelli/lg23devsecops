@@ -29,7 +29,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           args: >
             -Dsonar.organization=pathecelli 
-            -Dsonar.projectKey=lg23devsecops 
+            -Dsonar.projectKey=pathecelli_lg23devsecops 
             -Dsonar.sources=owm/
             -Dsonar.tests=tests/
             -Dsonar.verbose=true
