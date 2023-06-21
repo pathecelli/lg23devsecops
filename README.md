@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/pathecelli/lg23devsecops/badge.svg?branch=main)](https://coveralls.io/github/pathecelli/lg23devsecops?branch=main)
+
 # 2023-devsecops-example Example Project
 This project is intended for use as a model to play with some more
 DevSecOps principles in a practical way. 
