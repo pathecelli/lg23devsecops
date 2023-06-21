@@ -33,7 +33,7 @@ jobs:
             -Dsonar.sources=owm/
             -Dsonar.tests=tests/
             -Dsonar.verbose=true
-      - name: Coveralls
+      - name: Coveralls GitHub Action
         uses: coverallsapp/github-action@v2
         with:
           github-token: ${{ github.token }} 
